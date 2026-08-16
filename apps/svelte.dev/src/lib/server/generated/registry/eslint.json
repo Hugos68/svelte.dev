@@ -7,10 +7,10 @@
     "eslintbot"
   ],
   "homepage": "https://eslint.org",
-  "version": "10.2.1",
-  "downloads": 130208635,
-  "github_stars": 27222,
-  "updated": "2026-04-17T20:17:44.852Z",
+  "version": "10.8.1",
+  "downloads": 156253918,
+  "github_stars": 27455,
+  "updated": "2026-08-07T20:21:24.770Z",
   "typescript": true,
   "runes": false,
   "last_rune_check_version": "9.35.0"
