@@ -8,11 +8,11 @@
     "conduitry"
   ],
   "homepage": "https://svelte.dev/docs/kit/adapter-vercel",
-  "version": "6.3.3",
-  "downloads": 170326,
-  "github_stars": 20282,
-  "updated": "2026-02-24T23:42:55.405Z",
-  "kit_range": "^2.4.0",
+  "version": "7.0.2",
+  "downloads": 439055,
+  "github_stars": 20891,
+  "updated": "2026-10-29T23:47:51.764Z",
+  "kit_range": "^3.0.0-next.0",
   "typescript": true,
   "runes": false,
   "last_rune_check_version": "5.7.0"
